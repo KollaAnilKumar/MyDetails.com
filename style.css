@@ -1,8 +1,28 @@
-@import ' a';
+ 
 * {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 html {
 	font-size: 10px;
