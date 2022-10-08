@@ -9,11 +9,7 @@ a:link {
   background-color: transparent;
   text-decoration: underline;
 }
-a:visited {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: none;
-}
+
 
 html {
 	font-size: 10px;
