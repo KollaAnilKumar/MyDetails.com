@@ -291,6 +291,7 @@ p {
 	width: 80%;
 	margin: 20px auto;
 	overflow: hidden;
+	border-radius: 10px;
 	 
 }
 #projects .project-info {
@@ -324,7 +325,8 @@ p {
 	 
 }
 #projects .project-img:after {
-	content: '';
+	content:'ANIL';
+	scale:1;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -332,6 +334,7 @@ p {
 	width: 100%;
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	opacity: 0.7;
+	border radius:10px;
 }
 #projects .project-img img {
 	transition: 0.3s ease transform;
