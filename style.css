@@ -52,7 +52,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid light green;
+	border: 3px solid green;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -62,7 +62,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: crimson;
+	background-color: ligth green;
 }
 .brand h1 {
 	font-size: 3rem;
