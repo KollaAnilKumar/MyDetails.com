@@ -4,7 +4,7 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-a:link {
+link {
   color:yellow;
 background-color:green;
 }
@@ -64,7 +64,7 @@ p {
 	transition: 0.3s ease;
 	transition-property: background-color, color;
 }
-.cta:hover {
+a.cta:hover {
 	color: white;
 	background-color:green;
 }
