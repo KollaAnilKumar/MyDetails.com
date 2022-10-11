@@ -47,10 +47,10 @@ p {
 	color: green;
 }
 
- #head.cta {
+  .cta {
 	display: inline-block;
 	padding: 10px 30px;
-	color: green;
+	color: white;
 	background-color: transparent;
 	border: 2px solid green;
 	font-size: 2rem;
@@ -60,9 +60,9 @@ p {
 	transition: 0.3s ease;
 	transition-property: background-color, color;
 }
-#head .cta:hover {
+.cta:hover {
 	color: white;
-	background-color:green;
+	background-color: crimson;
 }
 .brand h1 {
 	font-size: 3rem;
