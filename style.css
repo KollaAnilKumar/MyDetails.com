@@ -321,6 +321,7 @@ p {
 	height: 300px;
 	overflow: hidden;
 	position: relative;
+	border:10px;
 }
 #projects .project-img:after {
 	content: '';
