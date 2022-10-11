@@ -302,8 +302,9 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(black);
 	color: white;
+	border-radius:10px;
 }
 #projects .project-info h1 {
 	font-size: 4rem;
