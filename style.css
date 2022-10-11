@@ -53,7 +53,7 @@ p {
 	color: green;
 }
 
- .cta {
+ #head.cta {
 	display: inline-block;
 	padding: 10px 30px;
 	color: green;
@@ -66,7 +66,7 @@ p {
 	transition: 0.3s ease;
 	transition-property: background-color, color;
 }
- .cta:hover {
+#head .cta:hover {
 	color: white;
 	background-color:green;
 }
